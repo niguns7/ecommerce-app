@@ -1,0 +1,71 @@
+.sidecontents-contents{
+    background-color: #fff;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+.delivary label, .product-services label{
+  font-size: 12px;
+  color: #757575;
+  font-weight: 500;
+}
+.delevary-flex, .return-flex {
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+}
+.delevary-flex span {
+  color: #202020;
+font-size: 14px;
+}
+.cashon-delivary , .warrenty-flex{
+  display: flex;
+  width: 90%;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #eff0f5;
+  line-height: 20px;
+  gap: 10px;
+  margin-top: 20px;
+}
+.standrad-delivary , .warrenty-flex{
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+.standrad-delivary span , .return-flex span{
+    color: #202020;
+    font-size: 14px;
+}
+.cashon-delivary span , .warrenty-flex span{
+    color: #202020;
+    font-size: 14px;
+}
+.sellor-flex{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.sellor-flex span{
+    font-size: 12px;
+    color: #757575;
+    font-weight: 500;
+}
+.sellor-flex h1{
+    color: #202020;
+    font-size: 18px;
+    font-weight: 400;
+}
+.sellor-body{
+    display: flex;
+    margin-top: 15px;
+    gap: 5px;
+    color: #219ebc;
+}
+.sellor-body span{
+    color: #219ebc;
+}
+.response-body{
+    display: grid;
+}

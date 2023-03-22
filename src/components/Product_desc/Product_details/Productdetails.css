@@ -1,0 +1,28 @@
+.productdetails-container{
+    display: grid;
+    height: auto;
+    width: auto;
+    place-items: center;
+}
+.productdetails-items{
+    display: flex;
+    background-color: #fafafa;
+    width: 90vw;
+    height: 80vh;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.productdetails-contents{
+padding: 10px;
+    margin: 10px;
+    width: 75%;
+    background-color: white;
+    border-radius: 5px;
+}
+.releted-product-contents{
+padding: 10px;
+    margin: 10px;
+    width: 25%;
+    background-color: white;
+    border-radius: 5px;
+}
